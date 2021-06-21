@@ -4,3 +4,4 @@ Olá!  Bem vindo ao meu livro de receitas :hand:
 
 - Strogronoff de Frango
 - Pavê
+- Bolo de Cenoura
